@@ -1,0 +1,6 @@
+numpy
+aocd
+networkx
+progressbar2
+tqdm
+
